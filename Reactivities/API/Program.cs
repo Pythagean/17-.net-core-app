@@ -44,3 +44,4 @@ catch (Exception ex)
 }
 
 app.Run();
+// dotnet watch --no-hot-reload
